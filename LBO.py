@@ -82,7 +82,6 @@ with Ebidta_tab:
         y = ['Debt','Equity'],
         barmode = 'stack',
         title="", 
-
         text_auto='.3s'
          )
 

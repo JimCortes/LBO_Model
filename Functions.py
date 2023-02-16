@@ -1,5 +1,5 @@
 import streamlit as st
-import numpy_financial as npf
+#import numpy_financial as npf
 import pandas as pd
 import numpy as np
 import pickle
